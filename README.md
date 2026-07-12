@@ -42,7 +42,9 @@
 <a href="mailto:rainan249@163.com">
   <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white">
 </a>
-
+<a href="https://blog.csdn.net/2502_90388158?ops_request_misc=&request_id=&biz_id=206&utm_medium=distribute.pc_search_result.none-task-user-null-1-179175744-null-null.nonecase&utm_term=rainan&spm=1018.2226.3001.4351">
+  <img src="https://img.shields.io/badge/CSDN-%2300BCD4.svg?style=flat-square&logo=csdn&logoColor=white">
+</a>
 
 ⭐ From [Rainan249](https://github.com/Rainan249)
 

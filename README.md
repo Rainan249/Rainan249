@@ -26,7 +26,7 @@
 
 ---
 
-## 🔥 Coding Time
+## 🔥 Coding Time From 2026.6.14
 
 <a href="https://codetime.dev">
   <img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37245" />
@@ -37,10 +37,10 @@
 ## 📫 Connect With Me
 
 <a href="https://github.com/Rainan249">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white">
 </a>
 <a href="mailto:Rainan249@163.com">
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
 

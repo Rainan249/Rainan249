@@ -39,7 +39,7 @@
 <a href="https://github.com/Rainan249">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white">
 </a>
-<a href="mailto:Rainan249@163.com">
+<a href="mailto:rainan249@163.com">
   <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white">
 </a>
 

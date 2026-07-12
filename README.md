@@ -23,7 +23,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rainan249&theme=vue" alt="GitHub Streak" />
 </div>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rainan249&theme=vue" />
 ---
 
 ## 🔥 Coding Time From 2026.6.14

@@ -21,11 +21,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rainan249&show_icons=true&theme=vue&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainan249&layout=compact&theme=vue&langs_count=6" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rainan249&theme=vue" alt="GitHub Streak" />
 </div>
 
@@ -44,7 +39,9 @@
 <a href="https://github.com/Rainan249">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
 </a>
-
+<a href="mailto:Rainan249@163.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 ---
 
 ⭐ From [Rainan249](https://github.com/Rainan249)
